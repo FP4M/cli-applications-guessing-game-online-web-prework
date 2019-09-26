@@ -8,4 +8,5 @@ input = gets
 2.6.1 :001 > input = gets
 hello
  => "hello\n"
- 
+ 2.6.1 :002 > input
+ => "hello\n"
